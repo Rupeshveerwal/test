@@ -3,6 +3,14 @@
 // 🎯 Goal: Understand and practice asynchronous programming in JavaScript.
 
 // ------------------------------
+// 🔹 Plan:
+// ------------------------------
+// - Promises help handle asynchronous code without callback hell.
+// - async/await makes code cleaner and easier to read.
+// - Promise.all() runs multiple async tasks in parallel efficiently.
+
+
+// ------------------------------
 // 🔹 PART 1: Basic Promise
 // ------------------------------
 
@@ -76,10 +84,3 @@ const simulateAPICalls = async () => {
 
 simulateAPICalls();
 
-
-// ------------------------------
-// 🔹 Summary:
-// ------------------------------
-// - Promises help handle asynchronous code without callback hell.
-// - async/await makes code cleaner and easier to read.
-// - Promise.all() runs multiple async tasks in parallel efficiently.
